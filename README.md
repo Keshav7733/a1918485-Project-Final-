@@ -281,7 +281,7 @@ School of Mathematical Sciences, University of Adelaide
 ## 📞 Contact & Questions
 
 For inquiries, methodology clarification, or collaboration opportunities:
-- **Email:** [your-email@university.edu]
+- **Email:** keshav.pareek.work@gmail.com
 - **GitHub Issues:** [Report bugs or request features](https://github.com/Keshav7733/a1918485-Project-Final-/issues)
 
 ---
